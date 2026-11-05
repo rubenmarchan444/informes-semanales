@@ -7,6 +7,7 @@ He intentado hacer la práctica 1, peor no he podido estudiar.
 ## qué voy a hacer la semana que viene?
 Estudiar el parcial y terminar la práctica 1.
 ## haciendo commit
+quieor hacer un commit; 
 
 
  
